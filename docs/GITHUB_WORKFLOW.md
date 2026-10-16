@@ -10,8 +10,11 @@ docs/
   GITHUB_WORKFLOW.md               协作与归档规则
   versions/                       已交付版本档案
   iterations/                     各版本迭代计划
-  ui/v0.2.0/                      UI 设计说明与截图（按需建立）
-  acceptance/v0.2.0/              验收记录（按需建立）
+  README.md                       本地与 GitHub 文档统一入口
+  guides/                         项目结构、使用与需求输入说明
+  ui/v0.2.0/                      UI 设计简报与后续截图
+  acceptance/v0.2.0/              待执行清单与后续验收记录
+  templates/                      需求、迭代、验收和发布模板
 .github/
   ISSUE_TEMPLATE/                 需求和缺陷模板
   pull_request_template.md        PR 验证要求
